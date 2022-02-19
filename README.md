@@ -106,7 +106,7 @@ http://localhost:8089/wilsonevs/api/swagger-ui.html#/
 #### Put
 
 ```http
-  POST http://localhost:8089/wilsonevs/api/auto/
+  PUT http://localhost:8089/wilsonevs/api/auto/
 ```
 
 ```JSON
@@ -123,4 +123,4 @@ http://localhost:8089/wilsonevs/api/swagger-ui.html#/
 #### DELETE - Eliminación por ID
 
 ```http
-  GET http://localhost:8089/wilsonevs/api/auto/1
+  DELETE http://localhost:8089/wilsonevs/api/auto/1
