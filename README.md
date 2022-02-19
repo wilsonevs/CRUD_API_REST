@@ -21,25 +21,12 @@ Microservicios, Postman, AWS, Bitbucket, Maven, Kafka, Mqtt, Base de datos
 Sql, NoSql y despliegue en tomcat.
 
 
-
-
 ## Autor
 
 - [@Github/wilsonevs](https://github.com/wilsonevs)
 - [@Linkedin/wilsonevs](https://www.linkedin.com/in/wilsonvalencs/)
 - [@Torre/wilsonevs](https://torre.co/wilson_evs)
 
-
-
-
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 ## CRUD
 CRUD hace referencia a un acrónimo en el que se reúnen las primeras letras de las cuatro operaciones fundamentales de aplicaciones persistentes en sistemas de bases de datos:
